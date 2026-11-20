@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+  <rect width="300" height="200" fill="white"/>
+  <text x="20" y="50" font-size="24">Hello SVG</text>
+  <script>
+    alert('hi');
+  </script>
+</svg>
